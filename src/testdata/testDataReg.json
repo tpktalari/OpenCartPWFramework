@@ -1,0 +1,92 @@
+[
+  {
+    "firstname": "rajiv",
+    "lastname": "menon",
+    "email": "rajiv.menon21@testmail.in",
+    "telephone": "9876501234",
+    "password": "Rajiv@2026",
+    "confirmpassword": "Rajiv@2026",
+    "newsletter": "Yes"
+  },
+  {
+    "firstname": "pooja",
+    "lastname": "iyer",
+    "email": "pooja.iyer22@testmail.in",
+    "telephone": "9123405678",
+    "password": "Pooja@2026",
+    "confirmpassword": "Pooja@2026",
+    "newsletter": "no"
+  },
+  {
+    "firstname": "arvind",
+    "lastname": "sharma",
+    "email": "arvind.sharma23@testmail.in",
+    "telephone": "9988776655",
+    "password": "Arvind@2026",
+    "confirmpassword": "Arvind@2026",
+    "newsletter": "Yes"
+  },
+  {
+    "firstname": "neha",
+    "lastname": "patel",
+    "email": "neha.patel24@testmail.in",
+    "telephone": "9345678123",
+    "password": "Neha@2026",
+    "confirmpassword": "Neha@2026",
+    "newsletter": "no"
+  },
+  {
+    "firstname": "suresh",
+    "lastname": "reddy",
+    "email": "suresh.reddy25@testmail.in",
+    "telephone": "9456789012",
+    "password": "Suresh@2026",
+    "confirmpassword": "Suresh@2026",
+    "newsletter": "yes"
+  },
+  {
+    "firstname": "anita",
+    "lastname": "joshi",
+    "email": "anita.joshi26@testmail.in",
+    "telephone": "9567890123",
+    "password": "Anita@2026",
+    "confirmpassword": "Anita@2026",
+    "newsletter": "no"
+  },
+  {
+    "firstname": "vikas",
+    "lastname": "mishra",
+    "email": "vikas.mishra27@testmail.in",
+    "telephone": "9678901234",
+    "password": "Vikas@2026",
+    "confirmpassword": "Vikas@2026",
+    "newsletter": "Yes"
+  },
+  {
+    "firstname": "rekha",
+    "lastname": "nair",
+    "email": "rekha.nair28@testmail.in",
+    "telephone": "9789012345",
+    "password": "Rekha@2026",
+    "confirmpassword": "Rekha@2026",
+    "newsletter": "no"
+  },
+  {
+    "firstname": "manoj",
+    "lastname": "gupta",
+    "email": "manoj.gupta29@testmail.in",
+    "telephone": "9890123456",
+    "password": "Manoj@2026",
+    "confirmpassword": "Manoj@2026",
+    "newsletter": "Yes"
+  },
+  {
+    "firstname": "kavitha",
+    "lastname": "rao",
+    "email": "kavitha.rao30@testmail.in",
+    "telephone": "9901234567",
+    "password": "Kavitha@2026",
+    "confirmpassword": "Kavitha@2026",
+    "newsletter": "no"
+  }
+]
