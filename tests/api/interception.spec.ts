@@ -41,7 +41,7 @@ test('mock search data API', async ({ page }) => {
 
     // For our reference
     let fakeJson = await page.evaluate(async () => {
-        let fakeRes = await.fetch('https://naveenautomationlabs.com/opencart/index.php?route=product/search&search=macbook')
+        let fakeRes = await fetch('https://naveenautomationlabs.com/opencart/index.php?route=product/search&search=macbook')
         return await fakeRes.json();
     })
 
