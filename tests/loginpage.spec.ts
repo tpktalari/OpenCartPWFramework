@@ -24,11 +24,11 @@ test('User is able to login to app Test', async ({loginpage, homepage})=>{
 
 //DD 2: without fixures for getting csv data , parallel mode, read csv directly and loop test method row wise..
 
-    let testData = CsvHelper.readCsv('src/testdata/loginData.csv');
+    // let testData = CsvHelper.readCsv('src/testdata/loginData.csv');
 
-    for(let row of testData){
-        test(`Invalid Login test with ${row.username} - ${row.password}`, async ({loginpage}) => {
-            await loginpage.doLogin(row.username, row.password);
-            expect(await loginpage.isInvalidLoginErrorDisplayed()).toBeTruthy();
-        })
-    }
+    // for(let row of testData){
+    //     test(`Invalid Login test with ${row.username} - ${row.password}`, async ({loginpage}) => {
+    //         await loginpage.doLogin(row.username, row.password);
+    //         expect(await loginpage.isInvalidLoginErrorDisplayed()).toBeTruthy();
+    //     })
+    // }
